@@ -8,3 +8,4 @@
 - [Input_Output](./Input_Output/Input_Output.ipynb)
 - [Data_Types](./Data_Types/Data_Types.ipynb)
 - [Conditional_Statement](./Conditional_Statement/Conditional_Statement.ipynb)
+- [Loop](./Loop/Loop.ipynb)
